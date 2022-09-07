@@ -6,7 +6,7 @@
 * [Linkedin](linkedin.com/in/stanislau-kaplunou-686999119)
 ====
 # About me:
- I love to read books on programming, watch video tutorials on YouTube, practice on the portal W3Schools, solve tasks on codewars.com.
+* I love to read books on programming, watch video tutorials on YouTube, practice on the portal W3Schools, solve tasks on codewars.com.
 ====
 # Skills:
 * Python
