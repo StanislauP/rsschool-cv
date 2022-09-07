@@ -36,13 +36,13 @@ function deepCount(a){
 ====
 # Experience:
 ## Python developer (Internship)/ IT-Academy, Minsk
-During the training period completed the project of an online store, with functionality of adding products to the cart and placing orders. The application handles forms and submits the data to the server. Django, Python, OOP, HTML, CSS, SQL, Git technologies were used to complete the project.
+* During the training period completed the project of an online store, with functionality of adding products to the cart and placing orders. The application handles forms and submits the data to the server. Django, Python, OOP, HTML, CSS, SQL, Git technologies were used to complete the project.
 ====
 # Education
-* Python developer/ IT Academy april 2022 – july 2022
-+ Grade - 92/100. Python program language, framework Django, HTML, CSS, GitHub, memory management, database and their structure. [Link](https://www.it-academy.by/course/python-developer/pt-python-developer/) to the course curriculum.
-* Bachelor degree in mechanical engineering/ Belarusian National Technical University september 2011 - july 2016
-+ At the university studied engineering disciplines and specialization was the construction of cars and their maintenance.
+## Python developer/ IT Academy april 2022 – july 2022
+* Grade - 92/100. Python program language, framework Django, HTML, CSS, GitHub, memory management, database and their structure. [Link](https://www.it-academy.by/course/python-developer/pt-python-developer/) to the course curriculum.
+## Bachelor degree in mechanical engineering/ Belarusian National Technical University september 2011 - july 2016
+* At the university studied engineering disciplines and specialization was the construction of cars and their maintenance.
 ====
 # Languages:
 * Belarusian - Native
